@@ -52,3 +52,8 @@ Thumbs.db
 *.pid
 *.tar
 *.lock.json
+.housing-api-task-def-.json
+.streamlit-task-def.json
+
+
+
